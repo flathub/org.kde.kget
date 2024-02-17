@@ -97,8 +97,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kget-23.08.4.tar.xz",
-                    "sha256": "792431445536f853102a5eaaf2f583850fcd0d919b5de6e7dedc89f8e08fb33e",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kget-23.08.5.tar.xz",
+                    "sha256": "2eaa2b7bf0726ea7fcdf7fef5ce6798ca306107dd9724a061d823a8d2edbf38e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
