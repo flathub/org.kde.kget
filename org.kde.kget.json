@@ -4,7 +4,6 @@
     "runtime-version": "6.8",
     "sdk": "org.kde.Sdk",
     "command": "kget",
-    "rename-icon": "kget",
     "finish-args": [
         "--share=ipc",
         "--socket=fallback-x11",
@@ -58,34 +57,13 @@
             ]
         },
         {
-            "name": "qca",
-            "buildsystem": "cmake-ninja",
-            "config-opts": [
-                "-DBUILD_TESTS=OFF",
-                "-DBUILD_WITH_QT6=ON"
-            ],
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/qca/2.3.9/qca-2.3.9.tar.xz",
-                    "sha256": "c555d5298cdd7b6bafe2b1f96106f30cfa543a23d459d50c8a91eac33c476e4e",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 13606,
-                        "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/qca/$version/qca-$version.tar.xz"
-                    }
-                }
-            ]
-        },
-        {
             "name": "libktorrent",
             "buildsystem": "cmake-ninja",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.3/src/libktorrent-24.12.3.tar.xz",
-                    "sha256": "16cc6949d5b0b4b918f6f353de5c09dd0c4179f4c303fbb07e3f26bc5726ce40",
+                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/libktorrent-25.04.0.tar.xz",
+                    "sha256": "f2f27f57d52a8c87306cd6b831904716340502bfd68f6fa2f5d5ae6250ceb464",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -101,8 +79,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.3/src/kget-24.12.3.tar.xz",
-                    "sha256": "00b74499649b996a683b1b3a434ce9f45704dad3470cf860032617f4a473f9f8",
+                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/kget-25.04.0.tar.xz",
+                    "sha256": "560a054d9aadf4f39a58c6daa3094f4b32bb6f3abe6ff86d1bd421b5bfaf30ca",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
