@@ -41,8 +41,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gnupg.org/ftp/gcrypt/gpgme/gpgme-1.24.3.tar.bz2",
-                    "sha256": "bfc17f5bd1b178c8649fdd918956d277080f33df006a2dc40acdecdce68c50dd",
+                    "url": "https://gnupg.org/ftp/gcrypt/gpgme/gpgme-2.0.0.tar.bz2",
+                    "sha256": "ddf161d3c41ff6a3fcbaf4be6c6e305ca4ef1cc3f1ecdfce0c8c2a167c0cc36d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1239,
@@ -62,8 +62,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/libktorrent-25.04.1.tar.xz",
-                    "sha256": "de34b9a9ede4cb2bcb55f0d8bb35c571f0e7796e12cb4486b50fd5516d863c14",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/libktorrent-25.04.2.tar.xz",
+                    "sha256": "e6ccf6d0503a0b71d594b75e67aa0ad505d57316d20d5380ccc590c4f0604e98",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -79,8 +79,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/kget-25.04.1.tar.xz",
-                    "sha256": "9443bd78d043dffac2055ed75cd9382a7b0803abe505430eb6705d150b913471",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/kget-25.04.2.tar.xz",
+                    "sha256": "c6c9d107bdffbc2d19855f298c5634a341a82d6ca3e1b430ce608c7c10d580c1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
