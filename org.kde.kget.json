@@ -50,6 +50,10 @@
                         "url-template": "https://gnupg.org/ftp/gcrypt/gpgme/gpgme-$version.tar.bz2"
                     }
                 }
+            ],
+            "cleanup": [
+                "/lib/libgpgme*.la",
+                "/lib/libqgpgme.la"
             ]
         },
         {
