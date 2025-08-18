@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://archives.boost.io/release/1.88.0/source/boost_1_88_0.tar.bz2",
-                    "sha256": "46d9d2c06637b219270877c9e16155cbd015b6dc84349af064c088e9b5b12f7b",
+                    "url": "https://archives.boost.io/release/1.89.0/source/boost_1_89_0.tar.bz2",
+                    "sha256": "85a33fa22621b4f314f8e85e1a5e2a9363d22e4f4992925d4bb3bc631b5a0c7a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6845,
@@ -47,6 +47,7 @@
                         "type": "anitya",
                         "project-id": 1239,
                         "stable-only": true,
+                        "versions": {"<": "2.0.0"},
                         "url-template": "https://gnupg.org/ftp/gcrypt/gpgme/gpgme-$version.tar.bz2"
                     }
                 }
@@ -62,8 +63,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/libktorrent-25.04.3.tar.xz",
-                    "sha256": "137a6b14bbdd5121c7afca8e6dad0e52ff7dee80a6e5b54638657f13c06873a8",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/libktorrent-25.08.0.tar.xz",
+                    "sha256": "e422bc87e3d14e8643a397f3b4f7d1baa3c0b9d9f6db2086ef43488752ba1657",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -79,8 +80,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/kget-25.04.3.tar.xz",
-                    "sha256": "4b74aaecfd730208488f480bc75f977e8b489cc1fe5737627f26c486e2909544",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/kget-25.08.0.tar.xz",
+                    "sha256": "153e2fc21af6188f2f2b0b9763496192966d1694382f536625e1c820779e4a2c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
