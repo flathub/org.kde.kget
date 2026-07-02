@@ -74,8 +74,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/libktorrent-26.04.2.tar.xz",
-                    "sha256": "a6f5bac0083182e7e0d9a5034ff68b538afb6b0ee822d64980593e89ebc18e31",
+                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/libktorrent-26.04.3.tar.xz",
+                    "sha256": "d059d3f82a4fca9292cd97d1138e30c22b5875d0a9a593a4211d2f02552e8361",
                     "x-checker-data": {
                         "is-important": true,
                         "type": "anitya",
@@ -92,8 +92,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/kget-26.04.2.tar.xz",
-                    "sha256": "e4643214ddc3c43eada345eeb33418963c9f880903a0410db2320423521be669",
+                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kget-26.04.3.tar.xz",
+                    "sha256": "590dcb9f40f9f5bb12a67c1b1c690dc29d183c952da2d76aa93f89d8b89c41d8",
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
